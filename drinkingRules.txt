@@ -5,7 +5,7 @@ DRINKING RAID
 RULES(to be added to):
 1. If at any point you loot a GREEN item 
   -->you become the "Legion Master" and can then assign one person to be your "Legion Bitch" 
-    -> meaning they will take any drinks that you would have to take during one boss fight; (this includes their own drinks)
+    -> meaning they will take any drinks that you would have to take during one boss fight; (this includes their own drinks)
 2. MINI GAME - Everytime a party lead/assist types in chat the phrase "ROLL CALL"
   --> you must reply /roll : if you get above a 50 you take a shot;
 3. The TOP DPS/HEAL can assign 1 extra drink at the end of each boss fight to any other DPS/HEALERS;
